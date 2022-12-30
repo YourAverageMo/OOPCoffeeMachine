@@ -4,12 +4,13 @@ from coffee_maker import CoffeeMaker
 from menu import Menu, MenuItem
 from money_machine import MoneyMachine
 
-# -print report
-# -check resources
-# process coins
-# check payment succ
-# make coffee
-# btw im basically making the same coffee machine over again so im not wasting time making it shiny like i did on the other one.
+# ______TODOS_____
+# -TODO print report
+# -TODO check resources
+# -TODO process coins
+# -TODO check payment succ
+# -TODO make coffee
+# -TODO btw im basically making the same coffee machine over again so im not wasting time making it shiny like i did on the other one.
 
 
 barista = CoffeeMaker()
